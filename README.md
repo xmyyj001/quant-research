@@ -1,2 +1,6 @@
 # quant-research
-Algorithmic trading strategies (including reproducible R code and rationale).
+## ALGORITHMIC TRADING STRATEGIES (INCLUDING RATIONALE AND REPRODUCIBLE R CODE):
+
+#### Algorthmic Trading of Walmart (WMT) Stock via Linear Discriminant Analysis (LDA) in R
+  http://rpubs.com/zpollak/trading_lda_wmt
+  
